@@ -1,5 +1,11 @@
-About Me
-I am final-year B.Sc. Computer Science student.
-I am interested in learning new technologies.
-I am a quick learner and a good listener.
-I enjoy exploring new ideas and improving my skills.
+ABOUT ME
+Name: N.Dharshini
+College: The Madura College
+Course: B.Sc Computer Science
+Department: Computer Science
+Career Goal: UI/UX Developer
+
+About me:
+I am a computer Science student interested in learning new technologies and gaining knowlege in software development.
+
+
