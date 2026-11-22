@@ -1,0 +1,19 @@
+MY PROJECT
+
+Project 1: 
+Project Name: College Lost and Found Website
+
+Description:
+A website that helps students find their lost belongings inside college.
+
+Technologies:
+HTML, CSS ,JavaScript.
+
+Project 2:
+Project Name: Student Result Management System
+
+Description:
+A System to manage students marks and calculate results.
+
+Technologies:
+Python, MYSQL
